@@ -31,7 +31,7 @@
           </li>
           <li class="nav-item has-treeview menu-open">
             <a href="/users" class="nav-link active">
-              <i class="far fa-address-book"></i>
+              <i class="nav-icon fas fa-tachometer-alt"></i>
               <p>Management board</p>
             </a>
           </li>
@@ -41,6 +41,12 @@
               <p>Roles board</p>
             </a>
           </li>
+          <!--<li class="nav-item has-treeview menu-open">
+            <a href="/products" class="nav-link active">
+              <i class="nav-icon fas fa-tachometer-alt"></i>
+              <p>Products Management</p>
+            </a>
+          </li>-->
         </ul>
       </nav>
       <!-- /.sidebar-menu -->
